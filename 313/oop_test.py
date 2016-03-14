@@ -63,6 +63,7 @@ def convert(snippet,phrase):
         for word in param_names:
             result = result.replace("@@@",word,1)
         results.append(result)
+    print results
     return results
 
 #keep going until they hit CTRL+D
