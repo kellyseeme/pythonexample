@@ -1,0 +1,2 @@
+SSH-2.0-OpenSSH_5.3
+220 (vsFTPd 2.2.2)
